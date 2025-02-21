@@ -10,7 +10,8 @@ Key Features of Python:
 - Extensive libraries and frameworks
 - Open-source and community-driven
 - Portable and cross-platform
-  !veriables!
+
+  #veriables
  Different Types of Variables in Python:
 ---------------------------------------
 Python supports various types of variables, including:
